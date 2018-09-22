@@ -9,5 +9,12 @@ def fun1(x):
 
 y = fun1(10)
 
-for i in y:
-    print(i)
+# for i in y:
+#     print(i)
+
+
+while True:
+    try:
+        next(y)
+    except StopIteration:
+        break
