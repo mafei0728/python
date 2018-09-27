@@ -41,10 +41,12 @@ def insert():
         cursor.execute(sql,name1)
         conn.commit()
         count +=1
+        count1 =0
         if count == 10000:
-            count=0
+            count = 0
+            count1 += 1
             time.sleep(1)
-            print(count)
+            print(count1)
     cursor.close()
     conn.close()
 
