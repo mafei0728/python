@@ -47,10 +47,10 @@ def rename(new_file,filename):
 #简单的写法
 def new(new_file,filename):
     with open(filename) as f:
-        h = (line.strip() for line in f )
+        h = (line.lstrip() for line in f )
         with open(new_file,'a') as g:
             for i in h:
-                g.write(i+'\n')
+                g.write(i)
     os.remove(filename)
     os.rename(new_file,filename)
 

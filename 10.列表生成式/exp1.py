@@ -22,7 +22,7 @@ for i in f:
         #     print(h.readlines())
         #     # if 'mysqld' in h:
         #     #     print(filename)
-
+#
 k = os.walk("D:\\临时存储软件\\Nagios监控安装包及客户端安装包")
 l = ['%s/%s'%(i[0],g) for i in k for g in i[-1]]
 print(l)
