@@ -7,80 +7,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91aaa8b6-34b1-4efc-9d95-447b3a25b08e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/13.匿名函数/exp2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/130.time模块/1.常用方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/131.datetime模块/1.常用方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/132.random模块/1.用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/133.hashlib模块/1.用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/134.os模块/1.用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/135.sys模块/1.用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/136.logging模块/1.使用方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/136.logging模块/配置参数" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/137.json模块/1.用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/137.json模块/2.用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/137.json模块/file3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/138.pickle/1.用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/149.re正则模块/1.用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/149.re正则模块/正则.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/150.pymysql模块/mysqltest/mysql1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/150.pymysql模块/mysqltest/mysql3.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2.函数/1.作用域.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.property/1.exp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/25.property/2.exp.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26.静态方法与动态方法/1.静态方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/26.静态方法与动态方法/2.动态方法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.反射/1.概念.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.反射/2_反射模块的属性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.反射/3_反射的用途1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.反射/4_反射的用途2/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.反射/4_反射的用途2/test2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.反射/5.通过字符串导入模块.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/27.反射/test.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28.两个简单的内置函数/1_isinstance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/28.两个简单的内置函数/2_issubclass.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/1.用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/2.通过继承二次加工数据类型.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/3.通过授权二次加工数据类型2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/4.第1个例子采用授权的方式加工.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/test" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/30.描述符/1.概述.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/31.3个item函数/1.概述.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/32.__slots__/1.概述.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33.对象实现迭代器的协议/1.概述.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/33.对象实现迭代器的协议/2.模拟range.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/34.析构函数/1.概述.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35.上下文管理协议/1.概述.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/35.上下文管理协议/2处理open函数.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/36.call方法/1_概述.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37.元类/1.元类的概念.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37.元类/2.自定义元类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/37.元类/3.__call__new__元类结合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/40.面向对象内置函数扫尾/1.扫尾.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/test5.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mafei0728.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mafei0728.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/13.匿名函数/exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.匿名函数/exp1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31.pymysql模块/1基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/150.pymysql模块/1基础.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31.pymysql模块/2查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/150.pymysql模块/2查询.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31.pymysql模块/3新插入数据的自增ID.py" beforeDir="false" afterPath="$PROJECT_DIR$/150.pymysql模块/3新插入数据的自增ID.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31.pymysql模块/4.zabbix_insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/150.pymysql模块/4.zabbix_insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/32.pyoracle模块/1.基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/151.pyoracle模块/1.基础.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/32.pyoracle模块/README" beforeDir="false" afterPath="$PROJECT_DIR$/151.pyoracle模块/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/Analysis-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/EXE-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/PKG-00.pkg" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/PKG-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/PYZ-00.pyz" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/PYZ-00.toc" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/base_library.zip" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/changepasword.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/changepasword.exe.manifest" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/warn-changepasword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/warn-changepasword.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/xref-changepasword.html" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/xref-changepasword.html" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/changepasword.py" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/changepasword.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/changepasword.spec" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/changepasword.spec" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/33.base64加密模块/dist/changepasword.exe" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/dist/changepasword.exe" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/test04.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/test4.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/test12.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/test12.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/149.re正则模块/1.用法.py" beforeDir="false" afterPath="$PROJECT_DIR$/149.re正则模块/1.用法.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -228,9 +155,9 @@
           <entry key="html" value="1" />
           <entry key="lock" value="1" />
           <entry key="log" value="3" />
-          <entry key="md" value="3" />
+          <entry key="md" value="4" />
           <entry key="png" value="1" />
-          <entry key="py" value="482" />
+          <entry key="py" value="484" />
           <entry key="sql" value="2" />
           <entry key="sum1" value="2" />
           <entry key="test" value="4" />
@@ -248,9 +175,9 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
-          <entry key="Markdown" value="3" />
+          <entry key="Markdown" value="4" />
           <entry key="PLAIN_TEXT" value="49" />
-          <entry key="Python" value="482" />
+          <entry key="Python" value="484" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -262,7 +189,7 @@
           <entry key="file3" value="182" />
           <entry key="html" value="1" />
           <entry key="lock" value="49" />
-          <entry key="py" value="46366" />
+          <entry key="py" value="46561" />
           <entry key="sql" value="3" />
           <entry key="sum1" value="65" />
           <entry key="test01" value="189" />
@@ -275,7 +202,7 @@
         <counts>
           <entry key="HTML" value="1" />
           <entry key="PLAIN_TEXT" value="934" />
-          <entry key="Python" value="46365" />
+          <entry key="Python" value="46560" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="3" />
         </counts>
@@ -284,20 +211,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/137.json模块/1.用法.py">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="505">
-              <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/149.re正则模块/1.用法.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="355">
-              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+            <state relative-caret-position="211">
+              <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
             </state>
           </provider>
         </entry>
@@ -384,7 +302,7 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="1">
+  <component name="ProjectFrameBounds">
     <option name="x" value="464" />
     <option name="y" value="20" />
     <option name="width" value="1588" />
@@ -681,15 +599,15 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="464" y="20" width="1588" height="1047" extended-state="1" />
+    <frame x="464" y="20" width="1588" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15641361" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.15641361" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7251309" visible="true" weight="0.23986487" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7251309" visible="true" weight="0.23986487" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49871466" weight="0.39576367" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -1023,13 +941,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/137.json模块/1.用法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="505">
-          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/149.re正则模块/正则.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -1040,10 +951,17 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/137.json模块/1.用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/149.re正则模块/1.用法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="355">
-          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
+        <state relative-caret-position="211">
+          <caret line="25" lean-forward="true" selection-start-line="25" selection-end-line="25" />
         </state>
       </provider>
     </entry>
