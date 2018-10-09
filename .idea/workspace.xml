@@ -2,104 +2,85 @@
 <project version="4">
   <component name="BookmarkManager">
     <bookmark url="file://$PROJECT_DIR$/4.装饰器/1.装饰器引入.py" description="#!/usr/bin/env python" line="0" />
-    <bookmark url="file://$PROJECT_DIR$/17.面向对象编程/2_深入1.py" line="35" mnemonic="3" />
-    <bookmark url="file://$PROJECT_DIR$/17.面向对象编程/6_类的名称空间与实例的名称空间.py" line="55" />
     <bookmark url="file://$PROJECT_DIR$/18.继承和派生/1_继承_派生.py" line="18" />
     <bookmark url="file://$PROJECT_DIR$/18.继承和派生/1_继承_派生.py" line="59" />
   </component>
   <component name="ChangeListManager">
     <list default="true" id="91aaa8b6-34b1-4efc-9d95-447b3a25b08e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/other.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/11.生成器表达式/声明变量式编程.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/1.abs.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/10_chr_ord.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/11_compile.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/12_complex.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/13_dir.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/14_divmod.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/15_enumerate.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/16.eval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/17_exec.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/18_filter_map_reduce.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/19_hash.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/20_id.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/22_lambda.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/23_max_min.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/24_zip.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/25_sorted.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/26_pow.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/27_repr.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/28_reversed.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/29_round.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/2_all.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/30_slice.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/31_vars.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/32__import__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/3_any.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/4_ascii.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/5_sum.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/6_bin_hex_oct.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/7_bool.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/8_bytes.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/12.内置函数/9_callable.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/13.匿名函数/exp1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/14.递归函数/基础.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/15.递归2分法/二分法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/16.函数式编程/概括.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.面向对象编程/1_基础.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.面向对象编程/2_深入1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.面向对象编程/3_深入2.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.面向对象编程/4.面向对象的设计与编程概念.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.面向对象编程/5_新式类_经典类.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.面向对象编程/6_类的名称空间与实例的名称空间.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.面向对象编程/7.选课系统模式.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/17.面向对象编程/8.总结.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/18.继承和派生/1_继承_派生.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/19.组合/2_组合.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/20.接口和归一化设计/4_接口和归一化设计.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/21.继承顺序/5_继承顺序.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/22.super函数的用法/6_super函数的用法.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/23.多态和多态性/1_多态与多态性.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.封装/1_封装概念.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/24.封装/2_封装私有属性如何调用.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/test12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TEST/xie_zheng1.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shaoh/burongyi.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shaoh/test1.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/shaoh/xie_zheng1.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/13.匿名函数/exp2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/130.time模块/1.常用方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/131.datetime模块/1.常用方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/132.random模块/1.用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/133.hashlib模块/1.用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/134.os模块/1.用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/135.sys模块/1.用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/136.logging模块/1.使用方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/136.logging模块/配置参数" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/137.json模块/1.用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/137.json模块/2.用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/137.json模块/file3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/138.pickle/1.用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/149.re正则模块/1.用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/149.re正则模块/正则.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/150.pymysql模块/mysqltest/mysql1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/150.pymysql模块/mysqltest/mysql3.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2.函数/1.作用域.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.property/1.exp1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/25.property/2.exp.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.静态方法与动态方法/1.静态方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/26.静态方法与动态方法/2.动态方法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.反射/1.概念.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.反射/2_反射模块的属性.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.反射/3_反射的用途1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.反射/4_反射的用途2/test1.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.反射/4_反射的用途2/test2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.反射/5.通过字符串导入模块.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/27.反射/test.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28.两个简单的内置函数/1_isinstance.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/28.两个简单的内置函数/2_issubclass.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/1.用法.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/2.通过继承二次加工数据类型.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/3.通过授权二次加工数据类型2.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/4.第1个例子采用授权的方式加工.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/29.3个attr的内置函数/test" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/30.描述符/1.概述.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/31.3个item函数/1.概述.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/32.__slots__/1.概述.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33.对象实现迭代器的协议/1.概述.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/33.对象实现迭代器的协议/2.模拟range.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/34.析构函数/1.概述.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35.上下文管理协议/1.概述.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/35.上下文管理协议/2处理open函数.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/36.call方法/1_概述.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37.元类/1.元类的概念.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37.元类/2.自定义元类.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/37.元类/3.__call__new__元类结合.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/40.面向对象内置函数扫尾/1.扫尾.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/TEST/test5.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/dictionaries/mafei0728.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/dictionaries/mafei0728.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/a+模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/a+模式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/funtest.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/funtest.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/haproxy.cnf" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/haproxy.cnf" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/haproxy_py.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/haproxy_py.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/r+模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/r+模式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/rb模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/rb模式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/seektell.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/seektell.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/test1" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/test1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/test2" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/test2" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/test3" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/test3" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/test4" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/test4" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/w+模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/w+模式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/修改文件.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/修改文件.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/百分比进度条.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/百分比进度条.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/1.基础/百分比进度条2.py" beforeDir="false" afterPath="$PROJECT_DIR$/1.文件处理/百分比进度条2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/10.列表生成式/exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/10.列表生成式/exp1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.生成器表达式/exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.生成器表达式/exp1.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.生成器表达式/exp2.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.生成器表达式/exp2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.生成器表达式/exp3迭代器补充.py" beforeDir="false" afterPath="$PROJECT_DIR$/11.生成器表达式/exp3迭代器补充.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/11.生成器表达式/test01" beforeDir="false" afterPath="$PROJECT_DIR$/11.生成器表达式/test01" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31.pymysql1/1基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/31.pymysql模块/1基础.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31.pymysql1/2查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/31.pymysql模块/2查询.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31.pymysql1/3新插入数据的自增ID.py" beforeDir="false" afterPath="$PROJECT_DIR$/31.pymysql模块/3新插入数据的自增ID.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/31.pymysql1/4.zabbix_insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/31.pymysql模块/4.zabbix_insert.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/32.pyoracle/1.基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/32.pyoracle模块/1.基础.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/32.pyoracle/README" beforeDir="false" afterPath="$PROJECT_DIR$/32.pyoracle模块/README" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/8.面向过程生产者消费者模式/面向过程模式.py" beforeDir="false" afterPath="$PROJECT_DIR$/8.面向过程生产者消费者模式/面向过程模式.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/9.三元表达式/1231212" beforeDir="false" afterPath="$PROJECT_DIR$/11.生成器表达式/sum1" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/test04.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/test04.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/test11.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/test11.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/time模块/timemodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelstudy/time模块/timemodel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/TEST/wxchat模块/wxyp_count.py" beforeDir="false" afterPath="$PROJECT_DIR$/modelstudy/wxchat模块/wxyp_count.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/13.匿名函数/exp1.py" beforeDir="false" afterPath="$PROJECT_DIR$/13.匿名函数/exp1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31.pymysql模块/1基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/150.pymysql模块/1基础.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31.pymysql模块/2查询.py" beforeDir="false" afterPath="$PROJECT_DIR$/150.pymysql模块/2查询.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31.pymysql模块/3新插入数据的自增ID.py" beforeDir="false" afterPath="$PROJECT_DIR$/150.pymysql模块/3新插入数据的自增ID.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/31.pymysql模块/4.zabbix_insert.py" beforeDir="false" afterPath="$PROJECT_DIR$/150.pymysql模块/4.zabbix_insert.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32.pyoracle模块/1.基础.py" beforeDir="false" afterPath="$PROJECT_DIR$/151.pyoracle模块/1.基础.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/32.pyoracle模块/README" beforeDir="false" afterPath="$PROJECT_DIR$/151.pyoracle模块/README" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/Analysis-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/Analysis-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/EXE-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/EXE-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/PKG-00.pkg" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/PKG-00.pkg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/PKG-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/PKG-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/PYZ-00.pyz" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/PYZ-00.pyz" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/PYZ-00.toc" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/PYZ-00.toc" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/base_library.zip" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/base_library.zip" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/changepasword.exe.manifest" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/changepasword.exe.manifest" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/warn-changepasword.txt" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/warn-changepasword.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/build/changepasword/xref-changepasword.html" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/build/changepasword/xref-changepasword.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/changepasword.py" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/changepasword.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/changepasword.spec" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/changepasword.spec" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/33.base64加密模块/dist/changepasword.exe" beforeDir="false" afterPath="$PROJECT_DIR$/153.base64加密模块/dist/changepasword.exe" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/test04.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/test4.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/TEST/test12.py" beforeDir="false" afterPath="$PROJECT_DIR$/TEST/test12.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -112,51 +93,65 @@
     <SUITE FILE_PATH="coverage/python$6_.coverage" NAME="6_类的名称空间与实例的名称空间 Coverage Results" MODIFIED="1538451043187" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17.面向对象编程" />
     <SUITE FILE_PATH="coverage/python$32__import__.coverage" NAME="32__import__ Coverage Results" MODIFIED="1538231578613" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$9_callable__.coverage" NAME="9_callable() Coverage Results" MODIFIED="1538144392659" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
-    <SUITE FILE_PATH="coverage/python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1538203951600" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/shaoh" />
+    <SUITE FILE_PATH="coverage/python$test1.coverage" NAME="test1 Coverage Results" MODIFIED="1538754867483" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/27.反射/4_反射的用途2" />
     <SUITE FILE_PATH="coverage/python$30_slice.coverage" NAME="30_slice Coverage Results" MODIFIED="1538231332344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
+    <SUITE FILE_PATH="coverage/python$2_issubclass.coverage" NAME="2_issubclass Coverage Results" MODIFIED="1538748170907" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/28.两个简单的内置函数" />
     <SUITE FILE_PATH="coverage/python$exp.coverage" NAME="exp Coverage Results" MODIFIED="1537803269480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.生成器表达式" />
     <SUITE FILE_PATH="coverage/python$3ID.coverage" NAME="3新插入数据的自增ID Coverage Results" MODIFIED="1536935520010" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31.pymysql" />
-    <SUITE FILE_PATH="coverage/python$exp1__1_.coverage" NAME="exp1 (1) Coverage Results" MODIFIED="1538062159615" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.生成器表达式" />
+    <SUITE FILE_PATH="coverage/python$exp1__1_.coverage" NAME="exp1 (1) Coverage Results" MODIFIED="1539063040853" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/10.列表生成式" />
+    <SUITE FILE_PATH="coverage/python$1___2_.coverage" NAME="1.用法 (2) Coverage Results" MODIFIED="1539094275146" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/138.pickle" />
     <SUITE FILE_PATH="coverage/python$test11.coverage" NAME="test11 Coverage Results" MODIFIED="1538152087609" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST" />
     <SUITE FILE_PATH="coverage/python$.coverage" NAME="二分法 Coverage Results" MODIFIED="1538317394164" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/15.递归2分法" />
     <SUITE FILE_PATH="coverage/python$26_pow.coverage" NAME="26_pow Coverage Results" MODIFIED="1538230460195" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$14_enumerate.coverage" NAME="14_enumerate Coverage Results" MODIFIED="1538146697956" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$a_.coverage" NAME="a+模式 Coverage Results" MODIFIED="1536759068649" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day1" />
-    <SUITE FILE_PATH="coverage/python$3_.coverage" NAME="3.携程爬网页 Coverage Results" MODIFIED="1537719204763" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/7.携程函数" />
+    <SUITE FILE_PATH="coverage/python$3_2.coverage" NAME="3.通过授权二次加工数据类型2 Coverage Results" MODIFIED="1538817859385" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29.3个attr的内置函数" />
+    <SUITE FILE_PATH="coverage/python$2open.coverage" NAME="2处理open函数 Coverage Results" MODIFIED="1538901662712" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/35.上下文管理协议" />
+    <SUITE FILE_PATH="coverage/python$3_.coverage" NAME="3.无参数带参数的装饰器 Coverage Results" MODIFIED="1538797076981" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4.装饰器" />
     <SUITE FILE_PATH="coverage/python$1_adb.coverage" NAME="1_adb Coverage Results" MODIFIED="1538142887974" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$2_all.coverage" NAME="2_all Coverage Results" MODIFIED="1538143032940" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$8_bytes.coverage" NAME="8_bytes Coverage Results" MODIFIED="1538232822520" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$25_sorted.coverage" NAME="25_sorted Coverage Results" MODIFIED="1538151904324" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$1__.coverage" NAME="1_继承_派生 Coverage Results" MODIFIED="1538547699133" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18.面向对象编程特性" />
     <SUITE FILE_PATH="coverage/python$29_round.coverage" NAME="29_round Coverage Results" MODIFIED="1538231043232" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
+    <SUITE FILE_PATH="coverage/python$1_isinstance.coverage" NAME="1_isinstance Coverage Results" MODIFIED="1538748050527" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/28.两个简单的内置函数" />
     <SUITE FILE_PATH="coverage/python$16_eval.coverage" NAME="16.eval Coverage Results" MODIFIED="1538230709469" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$9_callable.coverage" NAME="9_callable Coverage Results" MODIFIED="1538144477122" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
-    <SUITE FILE_PATH="coverage/python$3.coverage" NAME="闭包的用途3 Coverage Results" MODIFIED="1536759395816" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day3" />
-    <SUITE FILE_PATH="coverage/python$4_zabbix_insert.coverage" NAME="4.zabbix_insert Coverage Results" MODIFIED="1538585598756" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31.pymysql模块" />
-    <SUITE FILE_PATH="coverage/python$test12.coverage" NAME="test12 Coverage Results" MODIFIED="1538452836965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST" />
+    <SUITE FILE_PATH="coverage/python$1___3_.coverage" NAME="1.用法 (3) Coverage Results" MODIFIED="1539096413573" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/149.re正则模块" />
+    <SUITE FILE_PATH="coverage/python$3.coverage" NAME="闭包的用途3 Coverage Results" MODIFIED="1538796786396" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.闭包" />
+    <SUITE FILE_PATH="coverage/python$4_zabbix_insert.coverage" NAME="4.zabbix_insert Coverage Results" MODIFIED="1538666086020" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31.pymysql模块" />
+    <SUITE FILE_PATH="coverage/python$33_.coverage" NAME="33.概述 Coverage Results" MODIFIED="1538837679567" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/33.对象实现迭代器的协议" />
+    <SUITE FILE_PATH="coverage/python$test12.coverage" NAME="test12 Coverage Results" MODIFIED="1539066221692" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST" />
     <SUITE FILE_PATH="coverage/python$3_any.coverage" NAME="3_any Coverage Results" MODIFIED="1538143201332" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$21_max_min.coverage" NAME="21_max_min Coverage Results" MODIFIED="1538149214786" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
-    <SUITE FILE_PATH="coverage/python$18_filter_map_reduce.coverage" NAME="18_filter_map_reduce Coverage Results" MODIFIED="1538228602358" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$28_reversed.coverage" NAME="28_reversed Coverage Results" MODIFIED="1538230749780" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
+    <SUITE FILE_PATH="coverage/python$2_xxx.coverage" NAME="2.xxx Coverage Results" MODIFIED="1538642740512" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/26.静态方法与动态方法" />
+    <SUITE FILE_PATH="coverage/python$18_filter_map_reduce.coverage" NAME="18_filter_map_reduce Coverage Results" MODIFIED="1539003724464" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$6_bin_hex_oct.coverage" NAME="6_bin_hex_oct Coverage Results" MODIFIED="1538232782080" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
+    <SUITE FILE_PATH="coverage/python$1_exp1.coverage" NAME="1.exp1 Coverage Results" MODIFIED="1538746471663" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/25.property" />
     <SUITE FILE_PATH="coverage/python$10_chr.coverage" NAME="10_chr Coverage Results" MODIFIED="1538232871590" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
-    <SUITE FILE_PATH="coverage/python$2.coverage" NAME="2查询 Coverage Results" MODIFIED="1536930833362" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31.pymysql" />
     <SUITE FILE_PATH="coverage/python$31_vars.coverage" NAME="31_vars Coverage Results" MODIFIED="1538231428624" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
+    <SUITE FILE_PATH="coverage/python$mysql1.coverage" NAME="mysql1 Coverage Results" MODIFIED="1538717472460" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31.pymysql模块/mysqltest" />
+    <SUITE FILE_PATH="coverage/python$2.coverage" NAME="闭包2 Coverage Results" MODIFIED="1538843068457" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.闭包" />
     <SUITE FILE_PATH="coverage/python$7_.coverage" NAME="7_多态与多态性 Coverage Results" MODIFIED="1538557668942" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18.面向对象编程特性" />
     <SUITE FILE_PATH="coverage/python$22_lambda.coverage" NAME="22_lambda Coverage Results" MODIFIED="1538149463642" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
+    <SUITE FILE_PATH="coverage/python$2_exp.coverage" NAME="2.exp Coverage Results" MODIFIED="1538805832344" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/25.property" />
+    <SUITE FILE_PATH="coverage/python$mysql3.coverage" NAME="mysql3 Coverage Results" MODIFIED="1538717479769" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/31.pymysql模块/mysqltest" />
     <SUITE FILE_PATH="coverage/python$6_super.coverage" NAME="6_super函数的用法 Coverage Results" MODIFIED="1538550888552" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18.面向对象编程特性" />
     <SUITE FILE_PATH="coverage/python$17_exec.coverage" NAME="17_exec Coverage Results" MODIFIED="1538146822497" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$19_hash.coverage" NAME="19_hash Coverage Results" MODIFIED="1538147012373" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$4_.coverage" NAME="4_接口和归一化设计 Coverage Results" MODIFIED="1538498242182" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18.面向对象编程特性" />
     <SUITE FILE_PATH="coverage/python$23_max_min.coverage" NAME="23_max_min Coverage Results" MODIFIED="1538149600445" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
-    <SUITE FILE_PATH="coverage/python$exp1.coverage" NAME="exp1 Coverage Results" MODIFIED="1538232282681" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13.匿名函数" />
-    <SUITE FILE_PATH="coverage/python$1.coverage" NAME="装饰器1 Coverage Results" MODIFIED="1537194341516" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/4装饰器" />
+    <SUITE FILE_PATH="coverage/python$exp1.coverage" NAME="exp1 Coverage Results" MODIFIED="1539062623662" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13.匿名函数" />
+    <SUITE FILE_PATH="coverage/python$1.coverage" NAME="闭包1 Coverage Results" MODIFIED="1538929008530" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/3.闭包" />
+    <SUITE FILE_PATH="coverage/python$4_1.coverage" NAME="4.第1个例子采用授权的方式加工 Coverage Results" MODIFIED="1538838037879" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/29.3个attr的内置函数" />
     <SUITE FILE_PATH="coverage/python$24_zip.coverage" NAME="24_zip Coverage Results" MODIFIED="1538150866661" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$8_.coverage" NAME="8_封装 Coverage Results" MODIFIED="1538562451684" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18.面向对象编程特性" />
-    <SUITE FILE_PATH="coverage/python$1_.coverage" NAME="1_基础 Coverage Results" MODIFIED="1538322371175" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17.面向对象编程" />
+    <SUITE FILE_PATH="coverage/python$test.coverage" NAME="test Coverage Results" MODIFIED="1538751237317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/27.反射" />
+    <SUITE FILE_PATH="coverage/python$1_.coverage" NAME="1.使用方法 Coverage Results" MODIFIED="1539087341001" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/136.logging模块" />
     <SUITE FILE_PATH="coverage/python$test04.coverage" NAME="test04 Coverage Results" MODIFIED="1538064709162" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST" />
     <SUITE FILE_PATH="coverage/python$changepasword.coverage" NAME="changepasword Coverage Results" MODIFIED="1537884137900" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/33.base64加密模块" />
-    <SUITE FILE_PATH="coverage/python$5_.coverage" NAME="5_继承顺序 Coverage Results" MODIFIED="1538548973291" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/18.面向对象编程特性" />
+    <SUITE FILE_PATH="coverage/python$5_.coverage" NAME="5.通过字符串导入模块 Coverage Results" MODIFIED="1538755345872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/27.反射" />
     <SUITE FILE_PATH="coverage/python$exp3.coverage" NAME="exp3迭代器补充 Coverage Results" MODIFIED="1538064299529" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.生成器表达式" />
     <SUITE FILE_PATH="coverage/python$13_dir.coverage" NAME="13_dir Coverage Results" MODIFIED="1538146323818" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$test2.coverage" NAME="test2 Coverage Results" MODIFIED="1536933743477" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST" />
@@ -166,13 +161,15 @@
     <SUITE FILE_PATH="coverage/python$test3.coverage" NAME="test3 Coverage Results" MODIFIED="1537802432677" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST" />
     <SUITE FILE_PATH="coverage/python$6_super__1_.coverage" NAME="6_super函数的用法 (1) Coverage Results" MODIFIED="1538623570265" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/22.super函数的用法" />
     <SUITE FILE_PATH="coverage/python$6_bin.coverage" NAME="6_bin Coverage Results" MODIFIED="1538147346791" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
-    <SUITE FILE_PATH="coverage/python$2_.coverage" NAME="2_封装私有属性如何调用 Coverage Results" MODIFIED="1538623711752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/24.封装" />
+    <SUITE FILE_PATH="coverage/python$2_.coverage" NAME="2.用法 Coverage Results" MODIFIED="1539092564812" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/137.json模块" />
     <SUITE FILE_PATH="coverage/python$2_1.coverage" NAME="2_深入1 Coverage Results" MODIFIED="1538359068806" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/17.面向对象编程" />
+    <SUITE FILE_PATH="coverage/python$1___1_.coverage" NAME="1.用法 (1) Coverage Results" MODIFIED="1539092756658" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/137.json模块" />
     <SUITE FILE_PATH="coverage/python$timemodel.coverage" NAME="timemodel Coverage Results" MODIFIED="1536766452092" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/TEST/time模块" />
     <SUITE FILE_PATH="coverage/python$pymysqlmodel.coverage" NAME="pymysqlmodel Coverage Results" MODIFIED="1536849823026" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/day30" />
     <SUITE FILE_PATH="coverage/python$3_sum.coverage" NAME="3_sum Coverage Results" MODIFIED="1538143085596" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
     <SUITE FILE_PATH="coverage/python$14_divmod.coverage" NAME="14_divmod Coverage Results" MODIFIED="1538146401884" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/12.内置函数" />
-    <SUITE FILE_PATH="coverage/python$exp2.coverage" NAME="exp2 Coverage Results" MODIFIED="1538062463914" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/11.生成器表达式" />
+    <SUITE FILE_PATH="coverage/python$3___call__new__.coverage" NAME="3.__call__new__元类结合 Coverage Results" MODIFIED="1538910865416" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/38.元类" />
+    <SUITE FILE_PATH="coverage/python$exp2.coverage" NAME="exp2 Coverage Results" MODIFIED="1539065283720" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/13.匿名函数" />
   </component>
   <component name="DatabaseView">
     <option name="SHOW_INTERMEDIATE" value="true" />
@@ -197,25 +194,27 @@
     <session id="1984913040">
       <usages-collector id="statistics.lifecycle.project">
         <counts>
-          <entry key="project.closed" value="31" />
+          <entry key="project.closed" value="35" />
           <entry key="project.open.time.1" value="1" />
           <entry key="project.open.time.15" value="2" />
           <entry key="project.open.time.16" value="1" />
           <entry key="project.open.time.17" value="2" />
-          <entry key="project.open.time.18" value="1" />
+          <entry key="project.open.time.18" value="2" />
+          <entry key="project.open.time.19" value="1" />
           <entry key="project.open.time.20" value="1" />
-          <entry key="project.open.time.21" value="3" />
+          <entry key="project.open.time.21" value="4" />
           <entry key="project.open.time.22" value="2" />
-          <entry key="project.open.time.23" value="1" />
+          <entry key="project.open.time.23" value="2" />
           <entry key="project.open.time.24" value="2" />
           <entry key="project.open.time.25" value="1" />
           <entry key="project.open.time.26" value="2" />
           <entry key="project.open.time.28" value="2" />
           <entry key="project.open.time.29" value="2" />
-          <entry key="project.open.time.5" value="14" />
-          <entry key="project.open.time.6" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.5" value="15" />
+          <entry key="project.open.time.6" value="2" />
           <entry key="project.open.time.8" value="1" />
-          <entry key="project.opened" value="41" />
+          <entry key="project.opened" value="48" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.extensions.open">
@@ -223,26 +222,35 @@
           <entry key="1231212" value="2" />
           <entry key="README" value="1" />
           <entry key="cuurent_login" value="1" />
+          <entry key="file1" value="4" />
+          <entry key="file2" value="2" />
+          <entry key="file3" value="2" />
           <entry key="html" value="1" />
           <entry key="lock" value="1" />
+          <entry key="log" value="3" />
+          <entry key="md" value="3" />
           <entry key="png" value="1" />
-          <entry key="py" value="296" />
+          <entry key="py" value="482" />
           <entry key="sql" value="2" />
           <entry key="sum1" value="2" />
+          <entry key="test" value="4" />
           <entry key="test01" value="6" />
           <entry key="test02" value="1" />
+          <entry key="test2" value="7" />
           <entry key="text" value="1" />
-          <entry key="txt" value="2" />
+          <entry key="txt" value="3" />
           <entry key="user_passwd" value="1" />
-          <entry key="vmoptions" value="4" />
+          <entry key="vmoptions" value="6" />
+          <entry key="配置参数" value="2" />
         </counts>
       </usages-collector>
       <usages-collector id="statistics.file.types.open">
         <counts>
           <entry key="HTML" value="1" />
           <entry key="Image" value="1" />
-          <entry key="PLAIN_TEXT" value="22" />
-          <entry key="Python" value="296" />
+          <entry key="Markdown" value="3" />
+          <entry key="PLAIN_TEXT" value="49" />
+          <entry key="Python" value="482" />
           <entry key="Scratch" value="2" />
         </counts>
       </usages-collector>
@@ -250,10 +258,11 @@
         <counts>
           <entry key="README" value="1" />
           <entry key="cuurent_login" value="54" />
-          <entry key="dummy" value="146" />
+          <entry key="dummy" value="200" />
+          <entry key="file3" value="182" />
           <entry key="html" value="1" />
           <entry key="lock" value="49" />
-          <entry key="py" value="26976" />
+          <entry key="py" value="46366" />
           <entry key="sql" value="3" />
           <entry key="sum1" value="65" />
           <entry key="test01" value="189" />
@@ -265,8 +274,8 @@
       <usages-collector id="statistics.file.types.edit">
         <counts>
           <entry key="HTML" value="1" />
-          <entry key="PLAIN_TEXT" value="698" />
-          <entry key="Python" value="26975" />
+          <entry key="PLAIN_TEXT" value="934" />
+          <entry key="Python" value="46365" />
           <entry key="SQL" value="1" />
           <entry key="Scratch" value="3" />
         </counts>
@@ -276,34 +285,19 @@
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/24.封装/1_封装概念.py">
+        <entry file="file://$PROJECT_DIR$/137.json模块/1.用法.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="486">
-              <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-              <folding>
-                <marker date="1538563936499" expanded="true" signature="255:260" ph="..." />
-              </folding>
+            <state relative-caret-position="505">
+              <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/24.封装/2_封装私有属性如何调用.py">
+        <entry file="file://$PROJECT_DIR$/149.re正则模块/1.用法.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="360">
-              <caret line="20" column="97" selection-start-line="20" selection-start-column="97" selection-end-line="20" selection-end-column="97" />
-              <folding>
-                <marker date="1538625075741" expanded="true" signature="75:80" ph="..." />
-                <marker date="1538625075741" expanded="true" signature="141:143" ph="..." />
-                <marker date="1538625075741" expanded="true" signature="141:150" ph="..." />
-                <marker date="1538625075741" expanded="true" signature="141:151" ph="..." />
-                <marker date="1538625075741" expanded="true" signature="141:154" ph="..." />
-                <marker date="1538625075741" expanded="true" signature="141:156" ph="..." />
-                <marker date="1538625075741" expanded="true" signature="141:158" ph="..." />
-                <marker date="1538625075741" expanded="true" signature="141:160" ph="..." />
-                <marker date="1538625075741" expanded="true" signature="795:800" ph="..." />
-                <marker date="1538625075741" expanded="true" signature="923:928" ph="..." />
-              </folding>
+            <state relative-caret-position="355">
+              <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
             </state>
           </provider>
         </entry>
@@ -330,57 +324,57 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/12.内置函数/24_zip.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/25_sorted.py" />
-        <option value="$PROJECT_DIR$/TEST/test11.py" />
-        <option value="$PROJECT_DIR$/shaoh/test1.py" />
-        <option value="$PROJECT_DIR$/shaoh/burongyi.html" />
-        <option value="$PROJECT_DIR$/shaoh/xie_zheng1.txt" />
+        <option value="$PROJECT_DIR$/27.反射/3_反射的用途.py" />
+        <option value="$PROJECT_DIR$/27.反射/4_反射的用途2.py" />
+        <option value="$PROJECT_DIR$/27.反射/4_反射的用途2/test2.py" />
+        <option value="$PROJECT_DIR$/27.反射/4_反射的用途2/test1.py" />
+        <option value="$PROJECT_DIR$/27.反射/5.通过字符串导入模块.py" />
+        <option value="$PROJECT_DIR$/29.3个attr的内置函数/2.二次加工数据类型.py" />
+        <option value="$PROJECT_DIR$/29.3个attr的内置函数/3.二次加工数据类型2.py" />
+        <option value="$PROJECT_DIR$/29.3个attr的内置函数/2.通过继承二次加工数据类型.py" />
+        <option value="$PROJECT_DIR$/29.3个attr的内置函数/3.通过授权二次加工数据类型2.py" />
+        <option value="$PROJECT_DIR$/29.3个attr的内置函数/1.用法.py" />
+        <option value="$PROJECT_DIR$/26.静态方法与动态方法/2.动态方法.py" />
+        <option value="$PROJECT_DIR$/29.3个attr的内置函数/3.第1个例子采用授权的方式加工.py" />
+        <option value="$PROJECT_DIR$/31.3个item函数/1.概述.py" />
+        <option value="$PROJECT_DIR$/32.__slots__/1.概述.py" />
+        <option value="$PROJECT_DIR$/33.实现迭代器的协议/33.概述.py" />
+        <option value="$PROJECT_DIR$/30.描述符/1.概述.py" />
+        <option value="$PROJECT_DIR$/33.对象实现迭代器的协议/2.模拟range.py" />
+        <option value="$PROJECT_DIR$/33.对象实现迭代器的协议/33.概述.py" />
+        <option value="$PROJECT_DIR$/29.3个attr的内置函数/4.第1个例子采用授权的方式加工.py" />
+        <option value="$PROJECT_DIR$/40.面向对象内置函数扫尾/1.扫尾.py" />
+        <option value="$PROJECT_DIR$/34.析构函数/1.概述.py" />
+        <option value="$PROJECT_DIR$/35.上下文管理协议/1.概述.py" />
+        <option value="$PROJECT_DIR$/35.上下文管理协议/2处理open函数.py" />
+        <option value="$PROJECT_DIR$/36.call方法/2.自定制元类.py" />
+        <option value="$PROJECT_DIR$/38.元类/1.自定制元类.py" />
+        <option value="$PROJECT_DIR$/36.call方法/1_概述.py" />
+        <option value="$PROJECT_DIR$/38.元类/2.自定义元类.py" />
+        <option value="$PROJECT_DIR$/38.元类/3.__call__new__元类结合.py" />
+        <option value="$PROJECT_DIR$/42.datetime模块.py" />
+        <option value="$PROJECT_DIR$/42.datetime模块/1.常用方法.py" />
         <option value="$PROJECT_DIR$/12.内置函数/18_filter_map_reduce.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/pow.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/26_pow.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/27_repr.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/16.eval.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/28_reversed.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/slice.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/30_slice.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/31_vars.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/31__import__.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/32__import__.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/6_bin_hex_oct.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/8_bytes.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/10_chr.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/12_complex.py" />
+        <option value="$PROJECT_DIR$/41.time模块/1.常用方法.py" />
+        <option value="$PROJECT_DIR$/132.random模块/1.用法.py" />
+        <option value="$PROJECT_DIR$/133.hashlib模块/1.用法.py" />
+        <option value="$PROJECT_DIR$/TEST/test5.py" />
         <option value="$PROJECT_DIR$/13.匿名函数/exp1.py" />
-        <option value="$PROJECT_DIR$/12.内置函数/29_round.py" />
-        <option value="$PROJECT_DIR$/31.pymysql模块/3新插入数据的自增ID.py" />
-        <option value="$PROJECT_DIR$/14.递归函数/基础.py" />
-        <option value="$PROJECT_DIR$/15.递归2分法/二分法.py" />
-        <option value="$PROJECT_DIR$/16.函数式编程/概括.py" />
-        <option value="$PROJECT_DIR$/17.面向对象函数/1_基础.py" />
-        <option value="$PROJECT_DIR$/17.面向对象编程/3_深入2.py" />
-        <option value="$PROJECT_DIR$/17.面向对象编程/4.面向对象的设计与编程概念.py" />
-        <option value="$PROJECT_DIR$/31.pymysql模块/4.zabbix_insert.py" />
-        <option value="$PROJECT_DIR$/17.面向对象编程/1_基础.py" />
-        <option value="$PROJECT_DIR$/17.面向对象编程/2_深入1.py" />
-        <option value="$PROJECT_DIR$/17.面向对象编程/5_新式类_经典类.py" />
+        <option value="$PROJECT_DIR$/2.函数/1.作用域.py" />
         <option value="$PROJECT_DIR$/TEST/test12.py" />
-        <option value="$PROJECT_DIR$/17.面向对象编程/8.总结.py" />
-        <option value="$PROJECT_DIR$/17.面向对象编程/7.选课系统模式.py" />
-        <option value="$PROJECT_DIR$/17.面向对象编程/6_类的名称空间与实例的名称空间.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/2_多态.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/1_继承.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/4_接口的概念.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/1_继承_派生.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/2_组合.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/4_接口和归一化设计.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/5_继承顺序.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/6_super函数的用法.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/8_封装.py" />
-        <option value="$PROJECT_DIR$/18.面向对象编程特性/7_多态与多态性.py" />
-        <option value="$PROJECT_DIR$/24.封装/2_封装私有数据如何调用.py" />
-        <option value="$PROJECT_DIR$/22.super函数的用法/6_super函数的用法.py" />
-        <option value="$PROJECT_DIR$/24.封装/2_封装私有属性如何调用.py" />
+        <option value="$PROJECT_DIR$/13.匿名函数/exp2.py" />
+        <option value="$PROJECT_DIR$/134.os模块/1.用法.py" />
+        <option value="$PROJECT_DIR$/135.sys模块/1.用法.py" />
+        <option value="$PROJECT_DIR$/136.logging模块/1.使用犯法.py" />
+        <option value="$PROJECT_DIR$/135.sys模块/配置参数" />
+        <option value="$PROJECT_DIR$/136.logging模块/input2.log" />
+        <option value="$PROJECT_DIR$/136.logging模块/1.使用方法.py" />
+        <option value="$PROJECT_DIR$/137.json模块/file3" />
+        <option value="$PROJECT_DIR$/137.json模块/1.用法.py" />
+        <option value="$PROJECT_DIR$/138.pickle/1.用法.py" />
+        <option value="$PROJECT_DIR$/137.json模块/2.用法.py" />
+        <option value="$PROJECT_DIR$/149.re正则模块/5-1-3 模块的分类(二).md" />
+        <option value="$PROJECT_DIR$/149.re正则模块/1.用法.py" />
       </list>
     </option>
   </component>
@@ -390,8 +384,9 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="378" />
+  <component name="ProjectFrameBounds" extendedState="1">
+    <option name="x" value="464" />
+    <option name="y" value="20" />
     <option name="width" value="1588" />
     <option name="height" value="1047" />
   </component>
@@ -430,17 +425,12 @@
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="22.super函数的用法" type="462c0819:PsiDirectoryNode" />
+              <item name="138.pickle" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="python" type="b2602c69:ProjectViewProjectNode" />
               <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="23.多态和多态性" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="python" type="b2602c69:ProjectViewProjectNode" />
-              <item name="python" type="462c0819:PsiDirectoryNode" />
-              <item name="24.封装" type="462c0819:PsiDirectoryNode" />
+              <item name="149.re正则模块" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -451,7 +441,7 @@
   </component>
   <component name="PropertiesComponent">
     <property name="DatabaseDriversLRU" value="oracle&#10;mysql" />
-    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/python/day30/pymysqlmodel.py" />
+    <property name="SearchEverywhereHistoryKey" value="&#9;FILE&#9;file://E:/python/10.列表生成式/exp1.py" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
@@ -460,15 +450,16 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\python\149.re正则模块" />
       <recent name="E:\python\shaoh" />
       <recent name="E:\python\TEST" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="E:\python\24.封装" />
-      <recent name="E:\python\23.多态和多态性" />
-      <recent name="E:\python\22.super函数的用法" />
-      <recent name="E:\python\21.继承顺序" />
-      <recent name="E:\python\20.接口和归一化设计" />
+      <recent name="E:\python\136.logging模块" />
+      <recent name="E:\python\38.元类" />
+      <recent name="E:\python" />
+      <recent name="E:\python\3.闭包" />
+      <recent name="E:\python\27.反射\4_反射的用途2" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -483,8 +474,8 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.2_封装私有属性如何调用">
-    <configuration name="2_封装私有属性如何调用" type="PythonConfigurationType" factoryName="Python" temporary="true">
+  <component name="RunManager" selected="Python.1.用法 (3)">
+    <configuration name="1.用法 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -492,12 +483,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/24.封装" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/137.json模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/24.封装/2_封装私有属性如何调用.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/137.json模块/1.用法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -506,7 +497,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="4.zabbix_insert" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1.用法 (2)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -514,12 +505,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/31.pymysql模块" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/138.pickle" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/31.pymysql模块/4.zabbix_insert.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/138.pickle/1.用法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -528,7 +519,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="6_super函数的用法 (1)" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1.用法 (3)" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -536,12 +527,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/22.super函数的用法" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/149.re正则模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/22.super函数的用法/6_super函数的用法.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/149.re正则模块/1.用法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -550,7 +541,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="7_多态与多态性" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1.使用方法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -558,12 +549,12 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18.面向对象编程特性" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/136.logging模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\python\23.多态和多态性\1_多态与多态性.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/136.logging模块/1.使用方法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -572,7 +563,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="8_封装" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="1.用法" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="python" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -580,12 +571,34 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/18.面向对象编程特性" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/132.random模块" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
       <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
-      <option name="SCRIPT_NAME" value="E:\python\24.封装\1_封装概念.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/132.random模块/1.用法.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="2.用法" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="python" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/137.json模块" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/137.json模块/2.用法.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -595,19 +608,19 @@
       <method v="2" />
     </configuration>
     <list>
-      <item itemvalue="Python.7_多态与多态性" />
-      <item itemvalue="Python.8_封装" />
-      <item itemvalue="Python.2_封装私有属性如何调用" />
-      <item itemvalue="Python.4.zabbix_insert" />
-      <item itemvalue="Python.6_super函数的用法 (1)" />
+      <item itemvalue="Python.1.使用方法" />
+      <item itemvalue="Python.1.用法 (1)" />
+      <item itemvalue="Python.2.用法" />
+      <item itemvalue="Python.1.用法 (2)" />
+      <item itemvalue="Python.1.用法 (3)" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.2_封装私有属性如何调用" />
-        <item itemvalue="Python.6_super函数的用法 (1)" />
-        <item itemvalue="Python.4.zabbix_insert" />
-        <item itemvalue="Python.8_封装" />
-        <item itemvalue="Python.7_多态与多态性" />
+        <item itemvalue="Python.1.用法 (3)" />
+        <item itemvalue="Python.1.用法 (2)" />
+        <item itemvalue="Python.1.用法 (1)" />
+        <item itemvalue="Python.2.用法" />
+        <item itemvalue="Python.1.使用方法" />
       </list>
     </recent_temporary>
   </component>
@@ -668,23 +681,23 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="464" y="20" width="1588" height="1047" extended-state="1" />
     <editor active="true" />
     <layout>
-      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.20575693" />
+      <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.15641361" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7262211" weight="0.24303234" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49871466" weight="0.39687848" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32995495" />
+      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.7251309" visible="true" weight="0.23986487" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49871466" weight="0.39576367" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2744216" side_tool="true" weight="0.32775453" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2748691" side_tool="true" weight="0.2240991" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.321727" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -694,20 +707,20 @@
       <window_info anchor="right" id="Database" order="4" weight="0.32992566" />
     </layout>
     <layout-to-restore>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.2303665" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.20157067" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7262211" visible="true" weight="0.2849099" />
-      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49871466" weight="0.39730135" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.32998884" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.7251309" weight="0.3828829" />
+      <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49871466" weight="0.3963964" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
       <window_info anchor="bottom" id="TODO" order="6" />
       <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="8" show_stripe_button="false" />
       <window_info anchor="bottom" id="Database Changes" order="9" />
-      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2744216" side_tool="true" weight="0.32775453" />
+      <window_info anchor="bottom" id="Event Log" order="10" sideWeight="0.2748691" side_tool="true" weight="0.2240991" />
       <window_info anchor="bottom" id="Terminal" order="11" weight="0.321727" />
       <window_info anchor="bottom" id="Python Console" order="12" />
       <window_info anchor="right" id="Commander" order="0" weight="0.4" />
@@ -732,384 +745,305 @@
     <MESSAGE value="2018-09-20-2" />
     <option name="LAST_COMMIT_MESSAGE" value="2018-09-20-2" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
-          <url>file://$PROJECT_DIR$/4.装饰器/1.装饰器引入.py</url>
-          <line>3</line>
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/486451814/_functools.py">
+    <entry file="file://$PROJECT_DIR$/131.datetime模块/1.常用方法.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/32.__slots__/1.概述.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="293">
-          <caret line="18" column="9" selection-start-line="14" selection-end-line="23" selection-end-column="7" />
+        <state relative-caret-position="378">
+          <caret line="21" column="5" lean-forward="true" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/26_pow.py">
+    <entry file="file://$PROJECT_DIR$/17.面向对象编程/2_深入1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.面向对象编程/3_深入2.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.面向对象编程/4.面向对象的设计与编程概念.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.面向对象编程/5_新式类_经典类.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.面向对象编程/6_类的名称空间与实例的名称空间.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" selection-start-line="11" selection-end-line="11" />
+        <state relative-caret-position="-486" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/17.面向对象编程/7.选课系统模式.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="23" column="34" lean-forward="true" selection-start-line="23" selection-start-column="34" selection-end-line="23" selection-end-column="34" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/27_repr.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/16.eval.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="14" lean-forward="true" selection-start-line="4" selection-start-column="14" selection-end-line="4" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/28_reversed.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="108">
-          <caret line="6" column="9" selection-start-line="6" selection-start-column="9" selection-end-line="6" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/486451814/builtins.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="411">
-          <caret line="548" column="4" selection-start-line="548" selection-start-column="4" selection-end-line="548" selection-end-column="4" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/32__import__.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="11" lean-forward="true" selection-start-line="8" selection-start-column="11" selection-end-line="8" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/12_complex.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="14" column="6" lean-forward="true" selection-start-line="14" selection-start-column="6" selection-end-line="14" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/10_chr_ord.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="15" lean-forward="true" selection-start-line="10" selection-start-column="15" selection-end-line="10" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/8_bytes.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" lean-forward="true" selection-start-line="7" selection-end-line="7" />
-        </state>
-      </provider>
+    <entry file="file://$PROJECT_DIR$/12.内置函数/5_sum.py">
+      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/12.内置函数/6_bin_hex_oct.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/486451814/_functools.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="21" lean-forward="true" selection-start-line="24" selection-start-column="21" selection-end-line="24" selection-end-column="21" />
+        <state relative-caret-position="-14">
+          <caret column="16" lean-forward="true" selection-start-column="16" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/486451814/time.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="163" column="4" selection-start-line="163" selection-start-column="4" selection-end-line="163" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/130.time模块/1.常用方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="528">
+          <caret line="35" column="8" selection-start-line="35" selection-start-column="8" selection-end-line="35" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3.7/Lib/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="220">
+          <caret line="755" selection-start-line="755" selection-end-line="755" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/132.random模块/1.用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="365">
+          <caret line="22" column="16" lean-forward="true" selection-start-line="22" selection-start-column="16" selection-end-line="22" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3.7/Lib/hashlib.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-914">
+          <caret line="66" selection-start-line="66" selection-end-line="66" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/133.hashlib模块/1.用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="312">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="58" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TEST/test5.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="25" selection-start-line="5" selection-start-column="25" selection-end-line="5" selection-end-column="25" />
+          <folding>
+            <marker date="1539062222185" expanded="true" signature="75:80" ph="..." />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/12.内置函数/18_filter_map_reduce.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="263">
-          <caret line="41" column="3" lean-forward="true" selection-start-line="41" selection-start-column="3" selection-end-line="41" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/23_max_min.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="3" selection-start-line="10" selection-end-line="16" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/25_sorted.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="5" lean-forward="true" selection-start-line="12" selection-end-line="17" selection-end-column="1" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/20_id.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" selection-start-line="18" selection-end-line="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/30_slice.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="11" lean-forward="true" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/29_round.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="21" lean-forward="true" selection-start-line="1" selection-start-column="21" selection-end-line="1" selection-end-column="21" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/12.内置函数/31_vars.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="54">
-          <caret line="3" selection-start-line="3" selection-end-line="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/13.匿名函数/exp1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        <state relative-caret-position="162">
+          <caret line="30" column="29" selection-start-line="30" selection-start-column="29" selection-end-line="30" selection-end-column="29" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/10.列表生成式/exp1.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/8.面向过程生产者消费者模式/面向过程模式.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-90">
-          <caret line="9" selection-start-line="8" selection-end-line="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31.pymysql模块/2查询.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://D:/python3.7/Lib/random.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="290">
-          <caret line="747" selection-start-line="747" selection-end-line="747" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/14.递归函数/基础.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="504">
-          <caret line="28" column="27" selection-start-line="28" selection-start-column="27" selection-end-line="28" selection-end-column="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/15.递归2分法/二分法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="6" selection-start-column="6" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31.pymysql模块/1基础.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/31.pymysql模块/3新插入数据的自增ID.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state>
-          <caret column="12" selection-start-column="12" selection-end-column="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/16.函数式编程/概括.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
-          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+          <caret line="14" column="45" lean-forward="true" selection-start-line="14" selection-start-column="45" selection-end-line="14" selection-end-column="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17.面向对象编程/1_基础.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="15" lean-forward="true" selection-start-line="17" selection-start-column="15" selection-end-line="17" selection-end-column="15" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17.面向对象编程/2_深入1.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" column="19" selection-start-line="14" selection-start-column="19" selection-end-line="14" selection-end-column="19" />
-          <folding>
-            <marker date="1538450783057" expanded="true" signature="106:111" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17.面向对象编程/3_深入2.py">
+    <entry file="file://$PROJECT_DIR$/13.匿名函数/exp1.py">
       <provider selected="true" editor-type-id="text-editor">
         <state>
           <caret column="21" lean-forward="true" selection-start-column="21" selection-end-column="21" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17.面向对象编程/4.面向对象的设计与编程概念.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="468">
-          <caret line="26" column="17" selection-start-line="26" selection-start-column="17" selection-end-line="26" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEST/test1.py">
+    <entry file="file://$PROJECT_DIR$/2.函数/args_1.py">
       <provider selected="true" editor-type-id="text-editor" />
     </entry>
-    <entry file="file://$PROJECT_DIR$/17.面向对象编程/7.选课系统模式.py">
+    <entry file="file://$PROJECT_DIR$/2.函数/test1.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.函数/斐波拉契.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.函数/默认参数.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/2.函数/test3.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.闭包/函数即为对象.py">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.闭包/闭包1.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="577">
-          <caret line="37" column="21" selection-start-line="37" selection-start-column="21" selection-end-line="37" selection-end-column="21" />
+        <state relative-caret-position="216">
+          <caret line="12" column="8" lean-forward="true" selection-start-line="12" selection-start-column="8" selection-end-line="12" selection-end-column="8" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17.面向对象编程/5_新式类_经典类.py">
+    <entry file="file://$PROJECT_DIR$/3.闭包/闭包2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="13" column="27" selection-start-line="13" selection-start-column="27" selection-end-line="13" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/3.闭包/闭包的用途3.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
-          <caret line="10" column="21" lean-forward="true" selection-start-line="8" selection-end-line="10" selection-end-column="21" />
+          <caret line="10" column="33" selection-start-line="10" selection-start-column="33" selection-end-line="10" selection-end-column="33" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/17.面向对象编程/6_类的名称空间与实例的名称空间.py">
+    <entry file="file://$PROJECT_DIR$/2.函数/1.作用域.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="58" column="20" selection-start-line="58" selection-start-column="20" selection-end-line="58" selection-end-column="20" />
+        <state relative-caret-position="180">
+          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
         </state>
       </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/17.面向对象编程/8.总结.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="14" selection-start-line="7" selection-start-column="14" selection-end-line="7" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEST/11.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="14" selection-start-line="17" selection-start-column="14" selection-end-line="17" selection-end-column="14" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEST/test2.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEST/test3.py">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TEST/test04.py">
-      <provider selected="true" editor-type-id="text-editor" />
     </entry>
     <entry file="file://$PROJECT_DIR$/TEST/test12.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="90">
-          <caret line="5" column="37" selection-start-line="5" selection-start-column="37" selection-end-line="5" selection-end-column="37" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/18.继承和派生/1_继承_派生.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="828">
-          <caret line="46" selection-start-line="46" selection-end-line="46" />
+        <state relative-caret-position="526">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
           <folding>
-            <marker date="1538498242088" expanded="true" signature="112:117" ph="..." />
-            <marker date="1538498242088" expanded="true" signature="136:141" ph="..." />
-            <marker date="1538498242088" expanded="true" signature="168:173" ph="..." />
-            <marker date="1538498242088" expanded="true" signature="207:212" ph="..." />
-            <marker date="1538498242088" expanded="true" signature="240:245" ph="..." />
+            <marker date="1539066491456" expanded="true" signature="343:350" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/19.组合/2_组合.py">
+    <entry file="file://$PROJECT_DIR$/13.匿名函数/exp2.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1314">
+          <caret line="73" lean-forward="true" selection-start-line="73" selection-end-line="73" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/.PyCharm2018.2/system/python_stubs/486451814/sys.py">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="108">
-          <caret line="6" column="6" selection-start-line="6" selection-start-column="6" selection-end-line="6" selection-end-column="6" />
-          <folding>
-            <marker date="1538498408479" expanded="true" signature="96:101" ph="..." />
-            <marker date="1538498408479" expanded="true" signature="287:292" ph="..." />
-            <marker date="1538498408479" expanded="true" signature="625:744" ph="..." />
-          </folding>
+          <caret line="584" selection-start-line="584" selection-end-line="584" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/31.pymysql模块/4.zabbix_insert.py">
+    <entry file="file://$PROJECT_DIR$/134.os模块/1.用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="505">
+          <caret line="35" column="3" selection-start-line="35" selection-start-column="3" selection-end-line="35" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/135.sys模块/1.用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="306">
+          <caret line="17" column="5" lean-forward="true" selection-start-line="17" selection-start-column="5" selection-end-line="17" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3.7/Lib/logging/__init__.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1288">
+          <caret line="696" column="8" selection-start-line="696" selection-start-column="8" selection-end-line="696" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/136.logging模块/配置参数">
       <provider selected="true" editor-type-id="text-editor">
         <state>
-          <caret line="12" column="17" selection-start-line="12" selection-start-column="17" selection-end-line="12" selection-end-column="17" />
+          <caret column="11" lean-forward="true" selection-start-column="11" selection-end-column="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/21.继承顺序/5_继承顺序.py">
+    <entry file="file://$PROJECT_DIR$/136.logging模块/input2.log">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/136.logging模块/input.log">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        <state relative-caret-position="-216" />
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/136.logging模块/1.使用方法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="409">
+          <caret line="41" column="10" lean-forward="true" selection-start-line="41" selection-start-column="10" selection-end-line="41" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/python3.7/Lib/typing.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="1471" column="8" selection-start-line="1471" selection-start-column="8" selection-end-line="1471" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/137.json模块/file3">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="108">
+          <caret line="6" column="4" selection-start-line="6" selection-start-column="4" selection-end-line="6" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/137.json模块/file1">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <caret column="57" selection-end-column="616" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/137.json模块/file2">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/137.json模块/2.用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="342">
+          <caret line="19" column="25" selection-start-line="19" selection-start-column="25" selection-end-line="19" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/138.pickle/file1">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/138.pickle/1.用法.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="26" column="10" selection-start-line="26" selection-start-column="10" selection-end-line="26" selection-end-column="10" />
           <folding>
-            <marker date="1538548973226" expanded="true" signature="235:246" ph="..." />
+            <marker date="1539094483256" expanded="true" signature="156:175" ph="..." />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/20.接口和归一化设计/4_接口和归一化设计.py">
+    <entry file="file://$PROJECT_DIR$/137.json模块/1.用法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="270">
-          <caret line="39" column="36" selection-start-line="39" selection-start-column="13" selection-end-line="39" selection-end-column="36" />
-          <folding>
-            <marker date="1538547327656" expanded="true" signature="186:191" ph="..." />
-            <marker date="1538547327656" expanded="true" signature="205:271" ph="..." />
-            <marker date="1538547327656" expanded="true" signature="481:482" ph="..." />
-            <marker date="1538547327656" expanded="true" signature="757:799" ph="..." />
-            <marker date="1538547327656" expanded="true" signature="853:858" ph="..." />
-          </folding>
+        <state relative-caret-position="505">
+          <caret line="70" column="26" selection-start-line="70" selection-start-column="26" selection-end-line="70" selection-end-column="26" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/22.super函数的用法/6_super函数的用法.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="343">
-          <caret line="28" column="28" lean-forward="true" selection-start-line="28" selection-start-column="28" selection-end-line="28" selection-end-column="28" />
+    <entry file="file://$PROJECT_DIR$/149.re正则模块/正则.md">
+      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
+        <state split_layout="SPLIT">
+          <first_editor relative-caret-position="396">
+            <caret line="22" column="2" selection-start-line="22" selection-start-column="2" selection-end-line="22" selection-end-column="2" />
+          </first_editor>
+          <second_editor />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/23.多态和多态性/1_多态与多态性.py">
+    <entry file="file://$PROJECT_DIR$/149.re正则模块/1.用法.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="24" selection-start-line="36" selection-start-column="24" selection-end-line="36" selection-end-column="24" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24.封装/1_封装概念.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="25" selection-start-line="27" selection-start-column="25" selection-end-line="27" selection-end-column="25" />
-          <folding>
-            <marker date="1538563936499" expanded="true" signature="255:260" ph="..." />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/24.封装/2_封装私有属性如何调用.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="360">
-          <caret line="20" column="97" selection-start-line="20" selection-start-column="97" selection-end-line="20" selection-end-column="97" />
-          <folding>
-            <marker date="1538625075741" expanded="true" signature="75:80" ph="..." />
-            <marker date="1538625075741" expanded="true" signature="141:143" ph="..." />
-            <marker date="1538625075741" expanded="true" signature="141:150" ph="..." />
-            <marker date="1538625075741" expanded="true" signature="141:151" ph="..." />
-            <marker date="1538625075741" expanded="true" signature="141:154" ph="..." />
-            <marker date="1538625075741" expanded="true" signature="141:156" ph="..." />
-            <marker date="1538625075741" expanded="true" signature="141:158" ph="..." />
-            <marker date="1538625075741" expanded="true" signature="141:160" ph="..." />
-            <marker date="1538625075741" expanded="true" signature="795:800" ph="..." />
-            <marker date="1538625075741" expanded="true" signature="923:928" ph="..." />
-          </folding>
+        <state relative-caret-position="355">
+          <caret line="20" lean-forward="true" selection-start-line="20" selection-end-line="20" />
         </state>
       </provider>
     </entry>
