@@ -1,11 +1,13 @@
 <component name="ProjectDictionaryState">
   <dictionary name="mafei0728">
     <words>
+      <w>addr</w>
       <w>asctime</w>
       <w>bodyindex</w>
       <w>classmethod</w>
       <w>configura</w>
       <w>filepath</w>
+      <w>filesize</w>
       <w>haproxy</w>
       <w>itpux</w>
       <w>mafei</w>
@@ -13,6 +15,8 @@
       <w>mysqld</w>
       <w>oper</w>
       <w>passwd</w>
+      <w>recv</w>
+      <w>setsockopt</w>
       <w>xxxx</w>
     </words>
   </dictionary>

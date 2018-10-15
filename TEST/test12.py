@@ -1,6 +1,4 @@
 import sys,os
-a=os.path.abspath(__file__)
-b=os.path.dirname(a)
-c=os.path.dirname(b)
-print(c)
-sys.path.append(c)
+t=os.path.normpath(os.path.join('c:\\cd','filename'))
+a='1 2 3 4 5 6'
+print(a.split(maxsplit=1))
